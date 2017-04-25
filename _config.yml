@@ -62,7 +62,7 @@ lightbox: true
 animate: true
 
 # mathJax (Powered by MathJax on https://www.mathjax.org/)
-mathJax: false
+mathJax: true
 
 # style
 theme-style: gray
