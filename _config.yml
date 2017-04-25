@@ -32,18 +32,14 @@ reward: false
 # ===========================================
 
 # Comments // Please only switch one on.
-comments: false
-# duoshuo:
-# uyan:
-# netease:
-# disqus:
+comments: true
+disqus: ruins-hes-house
 
 # sub //Please just fill out ID.
 sub:
-#  github:
-#  weibo:
-#  twitter:
-#  zhihu:
+  github: ruinshe
+  weibo: ruinshe
+  zhihu: ruins-he
 
 #Friend link
 friendLink:
@@ -52,7 +48,7 @@ friendLink:
 # Analytics
 # ===========================================
 
-#google_analytics:
+google_analytics: UA-48752963-1
 #baidu_analytics:
 
 # ===========================================
