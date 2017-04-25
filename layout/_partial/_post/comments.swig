@@ -5,4 +5,5 @@
         {% include "../../_script/_comment/duoshuo.swig" %}
         {% include "../../_script/_comment/disqus.swig" %}
     </div>
+    {% include "../../_script/_comment/disqus.swig" %}
 {% endif %}
