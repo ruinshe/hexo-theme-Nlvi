@@ -7,10 +7,7 @@
     {% endblock %}
 
     {% block main %}
-        {% if page.type === 'about' %}
-            <div class="about syuanpi riseIn-light">
-                <h2 class="title"> {{ __('nav.about') }} </h2>
-                <div class="content"> {{ theme.self }} </div>
-            </div>
-        {% endif %}
+      <div class="post-content syuanpi riseIn-light back-3">
+        {{ page.content }}
+      </div>
     {% endblock %}
