@@ -65,6 +65,9 @@ lightbox: true
 # animate (Powered by Syuanpi on https://colmugx.github.io/Syuanpi.css)
 animate: true
 
+# mathJax (Powered by MathJax on https://www.mathjax.org/)
+mathJax: false
+
 # style
 theme-style: gray
 
