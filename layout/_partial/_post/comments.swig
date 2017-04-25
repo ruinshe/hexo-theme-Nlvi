@@ -3,5 +3,6 @@
     <div class="post-comments" id="post-comments" style="display: none;margin: auto 16px;">
         {% include "../../_script/_comment/uyan.swig" %}
         {% include "../../_script/_comment/duoshuo.swig" %}
+        {% include "../../_script/_comment/disqus.swig" %}
     </div>
 {% endif %}
