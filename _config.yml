@@ -47,7 +47,6 @@ friendLink:
 # ===========================================
 # Analytics
 # ===========================================
-
 google_analytics: UA-48752963-1
 #baidu_analytics:
 
@@ -68,7 +67,7 @@ mathJax: true
 theme-style: gray
 
 # Created Time
-since: 2016
+since: 1970
 
 #about
 self: Die!!!Die!!!!Die!!!!!!!!
