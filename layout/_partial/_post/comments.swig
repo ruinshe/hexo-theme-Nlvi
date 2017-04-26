@@ -4,6 +4,6 @@
         {% include "../../_script/_comment/uyan.swig" %}
         {% include "../../_script/_comment/duoshuo.swig" %}
         {% include "../../_script/_comment/netease.swig" %}
+        {% include "../../_script/_comment/disqus.swig" %}
     </div>
-    {% include "../../_script/_comment/disqus.swig" %}
 {% endif %}
