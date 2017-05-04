@@ -17,7 +17,10 @@ favicon:
 # Article Setting
 # ===========================================
 
-# Navigator in post
+# Header Sign
+header_sign: ∮
+
+# Navigator in post (unfinished)
 # toc: false
 
 # Use copyright infomation
@@ -79,14 +82,22 @@ animate: true
 # mathJax (Powered by MathJax on https://www.mathjax.org/)
 mathJax: true
 
-# style
-theme-style: gray
-
 # Created Time
 since: 2012
 
 #about
 self: Die!!!Die!!!!Die!!!!!!!!
+
+# ===========================================
+# Documents Styles
+# ===========================================
+
+# theme-style
+theme-style: gray
+
+# article-fonts
+# default | Simsun | YaHei | Hel
+fonts-style: default
 
 # ===========================================
 # Version
