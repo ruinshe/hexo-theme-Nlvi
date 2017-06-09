@@ -96,11 +96,11 @@ self: Die!!!Die!!!!Die!!!!!!!!
 search: true
 
 greetings:
-  morning: 当我们探索时，就要发现到真理
-  noon: 人的天职在于勇于探索真理。
-  after: 一件事实是一条没有性别的真理
-  night: 真理有时可能变得黯淡，但它永远不会熄灭
-  midnight: 真理在人那里获得生命力，并且展现出来
+  morning:
+  noon:
+  after:
+  night:
+  midnight:
 
 # greetings:
 #   morning: '早上好，请问您需要点什么？'
