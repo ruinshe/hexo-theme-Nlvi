@@ -24,7 +24,7 @@
                     {{ post.content }}
                 {% endif %}
             {% endif %}
-        {% if post.excerpt and is_home() %}
+        {% if is_home() %}
             <p class="content-link">
                 <a href="{{ url_for(post.path) }}#more">
                     <span class="iconfont icon-right">{{ __('page.readmore') }}</span>
