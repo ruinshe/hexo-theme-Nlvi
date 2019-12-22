@@ -1,6 +1,7 @@
 <header class="header" id="header">
   <div class="header-wrapper">
     {% include "_header/logo.swig" %}
+    {% include "_footer/contact.swig" %}
     {% include "_header/nav.swig" %}
   </div>
 </header>
